@@ -1,0 +1,10 @@
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\bin\Debug\BatchModfiyImages.exe.config
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\bin\Debug\BatchModfiyImages.exe
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\bin\Debug\BatchModfiyImages.pdb
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.Form1.resources
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.Properties.Resources.resources
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.csproj.GenerateResource.cache
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.csproj.CoreCompileInputs.cache
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.exe
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.pdb
+c:\users\anymore\source\repos\BatchModfiyImages\BatchModfiyImages\obj\Debug\BatchModfiyImages.csprojAssemblyReference.cache
